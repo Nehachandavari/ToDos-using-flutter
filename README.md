@@ -7,7 +7,7 @@ A simple and elegant ToDo app built with Flutter, designed to help you manage yo
 - Delete activities
 - Search activities using the search bar
 
-![App Screenshot](https://github.com/Nehachandavari/ToDos-using-flutter/blob/main/screenshot.png)
+![App Screenshot](image_processing20230307-7-3tbuum.jpg)
 
 ## Features
 
